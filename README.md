@@ -9,9 +9,9 @@ and it motivated me to learn it everyday and take part in #27DaysofJax challenge
 I wanted to keep track of my learning in this repository.
 
 ## Goals:
-* [ ]- Complete JAX-101 Course
-* [ ]- Collect and Go through Amazing Blogs on JAX
-* [ ]- Create and Collect JAX Learning Resources
+- [ ] Complete JAX-101 Course
+- [ ] Collect and Go through Amazing Blogs on JAX
+- [ ] Create and Collect JAX Learning Resources
 
 ## Day1:
 
