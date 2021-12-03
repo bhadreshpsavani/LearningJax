@@ -25,3 +25,4 @@ To Overcome this we can create a new copy of the JAX Numpy array like this,
 
 Train Simple MLP in JAX
 ![train_mlp](/resources/images/train_mlp_day2.png)
+[Train Simple MLP in JAX Notebook](/Notebooks/TrainSimpleMLPwithJAX.ipynb)
