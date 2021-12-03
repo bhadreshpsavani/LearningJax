@@ -23,4 +23,4 @@ To Overcome this we can create a new copy of the JAX Numpy array like this,
 
 ## Day2:
 
-Train Simple MLP in JAX
+[Train Simple MLP in JAX Notebook](/Notebooks/TrainSimpleMLPwithJAX.ipynb)
