@@ -20,3 +20,7 @@ Earlier I was considering the JAX NumPy array and normal NumPy array as almost t
 
 To Overcome this we can create a new copy of the JAX Numpy array like this,
 ![day1_2](/resources/images/Day1_2.png)
+
+## Day2:
+
+Train Simple MLP in JAX
