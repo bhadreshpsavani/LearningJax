@@ -26,3 +26,10 @@ To Overcome this we can create a new copy of the JAX Numpy array like this,
 [Train Simple MLP in JAX Notebook](/Notebooks/TrainSimpleMLPwithJAX.ipynb)
 ![train_mlp](/resources/images/train_mlp_day2.png)
 
+## Day3:
+
+Compared Code for Linear Regression In Pytorch, Numpy and Jax
+
+![LinearRegressionJax](resources/images/LinearRegressionJax.png)
+![LinearRegressionNumpy](resources/images/LinearRegressionNumpy.png)
+![LinearRegressionPytorch](resources/images/LinearRegressionPytorch.png)
