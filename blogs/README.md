@@ -15,3 +15,7 @@ To learn new things in ML, i belive we should go though all the resources we com
 * [tf-jax-tutorials-part-8-vmap-pmap](https://www.kaggle.com/aakashnain/tf-jax-tutorials-part-8-vmap-pmap)
 * [tf-jax-tutorials-part-9-autodiff-in-jax](https://www.kaggle.com/aakashnain/tf-jax-tutorials-part-9-autodiff-in-jax)
 * [tf-jax-tutorials-part-10-pytrees-in-jax](https://www.kaggle.com/aakashnain/tf-jax-tutorials-part-10-pytrees-in-jax)
+
+## Community Blogs:
+* [jax-decoding-the-name](https://devpranjal.github.io/2021/11/26/jax-decoding-the-name)
+* [supercharged-high-resolution-ocean-simulation-with-jax](https://dionhaefner.github.io/2021/12/supercharged-high-resolution-ocean-simulation-with-jax)
