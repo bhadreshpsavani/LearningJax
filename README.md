@@ -33,3 +33,6 @@ Compared Code for Linear Regression In Pytorch, Numpy and Jax
 ![LinearRegressionJax](/resources/images/LinearRegressionJax.png)
 ![LinearRegressionNumpy](/resources/images/LinearRegressionNumpy.png)
 ![LinearRegressionPytorch](/resources/images/LinearRegressionPytorch.png)
+
+## Day4:
+Started checking about [Flax](https://flax.readthedocs.io/en/latest/) A Neural Network based framework for JAX. We can train wide range of NLP and Vision based model on Huggingface library. Large Number of Pretrained models can be already found on Huggingface Model HUb.
