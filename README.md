@@ -39,4 +39,7 @@ Started checking about [Flax](https://flax.readthedocs.io/en/latest/) A Neural N
 
 ## Day5
 * The Proper way of Using JAX is to use it on **Functionally [Pure Python Function](https://jax.readthedocs.io/en/latest/notebooks/Common_Gotchas_in_JAX.html#pure-functions)**
-* 
+
+## Day6
+* Going through Jax101 content and understanding Jax better
+* Its really interesting that in Jax we convert functions into `jaxpr` representation. `jaxpr` does not capture side effect function it only consider pure function. jaxpr captures the function as executed on the parameters given to it.
